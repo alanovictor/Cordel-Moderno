@@ -28,8 +28,8 @@ This project was developed with the following technologies:<br>
 
 ## 💻 Project-Projeto
 
-Project created to showcase responsiveness and background alignment techniques..
-(Projeto criado para exibir tecnicas de responssividade e de alinhamento de fundo.)
+Project created to display background alignment and responsiviness techniques without media query.
+(Projeto criado para exibir tecnicas de alinhamento de fundo e de responsiviade sem utilizar media query).
 
 
 - [Access the finished project online](https://alanovictor.github.io/Cordel-Moderno/)<br>
