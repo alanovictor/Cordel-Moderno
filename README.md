@@ -1,8 +1,8 @@
 # Cordel-Moderno
 Página Cordel Moderno
 
-<h1 align="center"> "Page about poetryes created by Milton Duarte" </h1>
-<h1 align="center"> "Página sobre poeasias criadas por milton Duarte" </h1>
+<h1 align="center"> "Page created by me about poetryes written by Milton Duarte" </h1>
+<h1 align="center"> "Página criada por mim sobre poesias escritas por Milton Duarte" </h1>
 
 
 <p align="center">
