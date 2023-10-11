@@ -2,13 +2,12 @@
 Página Cordel Moderno
 
 <h1 align="center"> "Page created by me about poetryes written by Milton Duarte" </h1>
-<h1 align="center"> "Página criada por mim sobre poesias escritas por Milton Duarte" </h1>
+<h1 align="center"> "Página criada por mim, sobre poesias escritas por Milton Duarte" </h1>
 
 
 <p align="center">
   <a href="#-technologies-tecnologias">Tecnologias-Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-project-projeto">Project-Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license-licença">License-Licença</a>
 </p>
 <p align="center">
